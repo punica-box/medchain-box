@@ -4,9 +4,7 @@ A box came from TC SHENZHEN Hackathon 2018. This box is contributed by [cydalyti
 
 If you find this box is helpful, you can endorse them through Linkedin!</font></b>
 
-<b>Linkedin:</b>
+- Yeung Wong - https://www.linkedin.com/in/yeungwong/
 
-Yeung Wong - https://www.linkedin.com/in/yeungwong/
-
-Carrie Lo - https://www.linkedin.com/in/carrielsc/
+- Carrie Lo - https://www.linkedin.com/in/carrielsc/
 
