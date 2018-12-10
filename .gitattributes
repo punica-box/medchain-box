@@ -1,2 +1,2 @@
-*.ipynb = python
- ShaderLab = python
+*.ipynb linguist-language = python
+ ShaderLab linguist-language = python
