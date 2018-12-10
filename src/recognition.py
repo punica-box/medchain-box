@@ -5,9 +5,10 @@ import os
 import cv2
 import face_recognition
 
+
 def main():
     video_capture = cv2.VideoCapture(0)
-    valid_image = face_recognition.load_image_file("valid.jpg")
+    valid_image = face_recognition.load_image_file("obama.jpg")
     valid_face_encoding = face_recognition.face_encodings(valid_image)[0]
     known_face_encodings = [valid_face_encoding]
     known_face_names = ["Valid"]
