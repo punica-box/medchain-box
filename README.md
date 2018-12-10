@@ -21,7 +21,7 @@ If you find this box is helpful, you can endorse them through Linkedin!</font></
 
 - Carrie Lo - https://www.linkedin.com/in/carrielsc/
 
-<table frame=void rules=none>
+<table border="0">
 <tr>
 <td>
 <a><div align=center><img width="300" src="img/MedChain1.png"/></div></a>
